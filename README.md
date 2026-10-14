@@ -1,5 +1,3 @@
-# shineora.in
-Shineora is a web-based e-commerce platform designed to display and sell products through a simple, user-friendly online store. It focuses on essential e-commerce functionality and a smooth shopping experience.
 # ✨ Shineora – E-Commerce Platform
 
 Shineora is a web-based e-commerce platform built to display and sell products through a clean, user-friendly online store. The website is designed for a smooth shopping experience and focuses on essential e-commerce functionality.
